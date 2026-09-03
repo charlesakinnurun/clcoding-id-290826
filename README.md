@@ -78,7 +78,7 @@ This is because `any()` returns `True` if **at least one element** in an iterabl
 
 In Python:
 
-* `0` → `False`
+* `0` → `False`t 
 * Non-zero numbers → `True`
 
 So:
